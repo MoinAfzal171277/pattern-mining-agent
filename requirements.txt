@@ -1,8 +1,10 @@
-pandas
-openpyxl
 scipy
 scikit-learn
 matplotlib
 seaborn
 mlxtend
 statsmodels
+streamlit
+pandas
+numpy
+openpyxl
