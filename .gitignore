@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Uploaded datasets and generated outputs
+data/
+uploads/
+outputs/
+*.xlsx
+*.xls
+*.csv
+
+# Temporary files
+*.log
+.DS_Store
